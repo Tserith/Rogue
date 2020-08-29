@@ -5,7 +5,7 @@ The purpose of this project is to experiment with rootkit techniques for educati
 
 ## User mode rootkit
 
-![](img/um_example.PNG)
+![](img/um_example.png)
 
 
 
